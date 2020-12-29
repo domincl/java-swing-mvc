@@ -4,18 +4,19 @@
 
     <groupId>groupId</groupId>
     <artifactId>java-swing-mvc</artifactId>
-    <version>1.1</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
+         <project.scm.id>github-scm-server</project.scm.id>
     </properties>
 
 
   <scm>
     <developerConnection>scm:git:https://github.com/domincl/java-swing-mvc.git</developerConnection>
-    <tag>java-swing-mvc-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
     <build>
