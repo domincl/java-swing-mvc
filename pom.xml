@@ -4,7 +4,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>java-swing-mvc</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.7-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -16,7 +16,6 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/domincl/java-swing-mvc.git</developerConnection>
-    <tag>java-swing-mvc-1.0.6</tag>
   </scm>
 
     <build>
