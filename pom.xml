@@ -15,7 +15,9 @@
 
 
   <scm>
+    <connection>scm:git:https://github.com/domincl/java-swing-mvc.git</connection>
     <developerConnection>scm:git:https://github.com/domincl/java-swing-mvc.git</developerConnection>
+    <url>https://github.com/domincl/java-swing-mvc</url>
     <tag>java-swing-mvc-1.0.3</tag>
   </scm>
 
